@@ -1,0 +1,10 @@
+body {
+   img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+	background-repeat: no-repeat;
+	background-image: url('Mahasiswabaru.jpg');
+}
